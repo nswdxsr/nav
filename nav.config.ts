@@ -4,7 +4,7 @@ const c: IConfig = {
   // [Mondatory], Please replace following Github url with your own Github address which you forked in.
   // [必填], 请填写您的仓库地址，
   // 如果修改过仓库名为hotnav，请用最新的:aiever/hotnav
-  gitRepoUrl: 'https://github.com/aiever/nav',
+  gitRepoUrl: 'https://github.com/nswdxsr/nav',
 
   // Deployment branch name
   // 部署分支,此处为自己创建的mynav分支
